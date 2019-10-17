@@ -1,0 +1,1 @@
+Precomputed tables with model predictions will be stored in this folder.
